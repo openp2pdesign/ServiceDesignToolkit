@@ -15,7 +15,7 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="analysis_personas.svg"
+   sodipodi:docname="personas.svg"
    inkscape:export-filename="../02.analysis_personas.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
@@ -190,10 +190,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54829032"
-     inkscape:cx="523.40848"
-     inkscape:cy="1109.8135"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="1.5253888"
+     inkscape:cx="351.09137"
+     inkscape:cy="69.306349"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="mm"
      inkscape:window-width="1280"
@@ -642,7 +642,7 @@
          id="tspan25287"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light"
          x="119.67056"
-         y="1008.9292">Massimo Menichinelli</tspan></text>
+         y="1008.9292">Name Surname - ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light"
@@ -654,7 +654,7 @@
          id="tspan25291"
          sodipodi:role="line"
          x="88.58268"
-         y="973.49603">MUSE Fablab</tspan></text>
+         y="973.49603">Name of the project</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text25293"
@@ -666,7 +666,7 @@
          x="440.89307"
          sodipodi:role="line"
          id="tspan25295"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light">http://www.muse.it</tspan></text>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light">http://www.google.com</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light"
@@ -678,7 +678,7 @@
          x="493.81128"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light"
          id="tspan25299"
-         sodipodi:role="line">Trento / MUSE</tspan></text>
+         sodipodi:role="line">Community/ Place / Organization</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
